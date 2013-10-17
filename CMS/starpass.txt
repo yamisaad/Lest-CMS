@@ -1,0 +1,7 @@
+URL de la page d'accès : http://localhost/lestcms/account/achat
+URL du document  : http://localhost/lestcms/account/addachat
+URL d'erreur  : http://localhost/lestcms/account/ErreurAchat
+
+Merci de remplacer http://localhost/lestcms/ par votre nom de domane par exemple serveurpriverdofus.fr et le mettre sur 
+les places starpass .
+et aussi configurer le idd et idp sur la configuration   => config/config.php

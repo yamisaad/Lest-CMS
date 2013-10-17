@@ -1,0 +1,53 @@
+Lest'CMS by yamisaaf
+j'ai pris beaucoups de temps pour coder ce cms merci de respecter le copyright
+/****************************************************************************/
+
+Premiérement je tiens a remercier tous les personnes qui m'ont aider a faire ce CMS : 
+v4vx
+nicky31
+ryuuke
+sorrow
+snapz
+....
+/*********************************Fonctionnaliter du CMS*******************************************/
+pour commencer le cms est coder sur ma propre architecture mvc(model view controller) 
+fonctionnaliter de la version 0.1 : 
+*Home : 
+-news
+-commentaires
+-poster un commentaires
+*Inscription
+*Nous rejoindres
+*equipe
+*votez & gagner
+*connexion & deconnexion
+*devenir vip
+*achat de points
+*panel compte
+*mot de passe oubliée
+*changer mot de passe
+*panel personnages
+*ladder : 
+-xp
+-vote
+-pvp
+*boutique
+-affichage de l'item (stats et l'images)
+*administration :
+-ajouter une news
+-ajouter l'equipe
+-supprimer l'equipe
+-gestion des news
+-faire une reduction a l'item
+-ajouter l'item (directement par son id)
+et bien d'autre chose...
+/*********************************Tutoriels  du CMS*******************************************/
+-pour avoir le psd du header et footer "app/theme/asterionv9/template/img/psd/"
+- configurer soigneusement la page "config/config.php"
+-pour les liens starpass regarder le fichier starpass.txt
+-mettez les sql "sql/v0.1" sur votre table d'emulateur
+*pour ajouter un item boutique veuillez mettre l'id de l'item : 
+-mettez le swf de l'item dans "app/theme/boutique/swf/"
+-ajouter la ligne sql de l'item sur votre table item_template
+....
+pour tous beug / failles veuillez me contactez skype : yamisaaf et merci
